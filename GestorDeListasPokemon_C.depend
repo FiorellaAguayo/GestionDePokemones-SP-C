@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1697175595 source:c:\users\fiore\onedrive\escritorio\proyectos_codeblocks\gestordelistaspokemon_c\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Inputs.h"
+
+1697174891 c:\users\fiore\onedrive\escritorio\proyectos_codeblocks\gestordelistaspokemon_c\inputs.h
+
+1697251547 source:c:\users\fiore\onedrive\escritorio\proyectos_codeblocks\gestordelistaspokemon_c\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1697251545 c:\users\fiore\onedrive\escritorio\proyectos_codeblocks\gestordelistaspokemon_c\linkedlist.h
+
+1697168831 source:c:\users\fiore\onedrive\escritorio\proyectos_codeblocks\gestordelistaspokemon_c\menus.c
+	<stdio.h>
+	<stdlib.h>
+	"menus.h"
+	"Inputs.h"
+
+1697165593 c:\users\fiore\onedrive\escritorio\proyectos_codeblocks\gestordelistaspokemon_c\menus.h
+
+1697251511 source:c:\users\fiore\onedrive\escritorio\proyectos_codeblocks\gestordelistaspokemon_c\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"Parser.h"
+	"Pokemon.h"
+	"Inputs.h"
+
+1697251432 c:\users\fiore\onedrive\escritorio\proyectos_codeblocks\gestordelistaspokemon_c\controller.h
+	"LinkedList.h"
+
+1697168307 c:\users\fiore\onedrive\escritorio\proyectos_codeblocks\gestordelistaspokemon_c\parser.h
+	"LinkedList.h"
+
+1697250794 source:c:\users\fiore\onedrive\escritorio\proyectos_codeblocks\gestordelistaspokemon_c\pokemon.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Pokemon.h"
+
+1697250786 c:\users\fiore\onedrive\escritorio\proyectos_codeblocks\gestordelistaspokemon_c\pokemon.h
+
+1697247803 source:c:\users\fiore\onedrive\escritorio\proyectos_codeblocks\gestordelistaspokemon_c\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Parser.h"
+	"LinkedList.h"
+	"Pokemon.h"
+
+1697251509 source:c:\users\fiore\onedrive\escritorio\proyectos_codeblocks\gestordelistaspokemon_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"menus.h"
+	"Inputs.h"
+	"Controller.h"
+
